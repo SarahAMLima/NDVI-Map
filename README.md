@@ -21,5 +21,5 @@ This map aims to provide insights into how vegetation recovers over time post-wi
 Visit the published web map [here](https://yourusername.github.io/NDVI-Map) to explore vegetation changes interactively.
 
 ## Data Sources
-- **Satellite Imagery**: [Sentinel-2 or Landsat], with NDVI processed to visualize vegetation.
+- **Satellite Imagery**: Sentinel 2 (1990), Landsat 8 (2017), with NDVI processed to visualize vegetation.
 - **Tools**: QGIS, Python for data automation, and GitHub Pages for hosting.
