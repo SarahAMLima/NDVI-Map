@@ -1,0 +1,35 @@
+#ndvi-legend {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    width: 180px;
+}
+
+#ndvi-legend h3 {
+    margin: 0;
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+}
+
+#ndvi-legend .gradient {
+    width: 150px;
+    height: 15px;
+    background: linear-gradient(to right, #d73027, #fee08b, #1a9850);
+}
+
+#ndvi-legend .value-labels {
+    display: flex;
+    justify-content: space-between;
+}
+
+#ndvi-legend .value-labels span {
+    font-size: 12px;
+    color: #555;
+}
